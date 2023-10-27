@@ -1,11 +1,8 @@
-# Welcome to your Jupyter Book
+# Mi Primer libro
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Bienvenidos a un viaje cautivador a través del mundo del desarrollo web, donde la creatividad y la tecnología se entrelazan en tres fascinantes dimensiones. Primero, exploraremos el Diseño Web Responsivo, donde descubriremos cómo los sitios web se adaptan y cautivan en cualquier dispositivo, ofreciendo experiencias inclusivas y atractivas. Luego, nos sumergiremos en el intrigante reino del SEO y Desarrollo Web, desentrañando los secretos de la optimización inteligente para motores de búsqueda y cómo los desarrolladores atraen audiencias curiosas. Finalmente, nos maravillaremos con las Tendencias Actuales en Desarrollo Web, donde tecnologías emergentes y diseños innovadores están dando forma al futuro digital, transformando nuestra experiencia en línea. ¡Prepárate para descubrir la magia detrás de las páginas web modernas!
 
-Check out the content pages bundled with this sample book to see more.
+Consulte las páginas de contenido incluidas en mi primer libro
 
 ```{tableofcontents}
 ```
